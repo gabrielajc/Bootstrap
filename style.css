@@ -318,3 +318,32 @@ background: linear-gradient(to bottom right, #491021 40%, #FFC39E 100%);
   margin-bottom: 30px;  
 }
 
+@media screen and (min-width: 1400px) {
+  .text {
+  max-width: 50rem;
+  }
+
+  .title p {
+    font-size: 31px;
+  }
+
+  .btn-outline-rose {
+    width: 500px;
+    font-size: 30px;
+  }
+
+  .title h3 {
+    font-size: 50px;
+  }
+
+  .imgc{
+  max-width: 200%; 
+  height: 600px;
+
+  }
+
+  .module-border-wrap {
+    margin-top: 0px;
+  }
+
+}
