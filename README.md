@@ -1,5 +1,6 @@
 <h1 align="center"> Bootstrap Site | 8 Bootstrap element challenge </h1> 
-<p align="center"> <img src="https://img.shields.io/static/v1?label=Status&message=Finished&color=#008000&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/github/license/gabrielajc/Bootstrap?color=blue"/> <img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=blue&style=for-the-badge&logo=netlify"/> </p>
+<p align="center"> <img src="https://img.shields.io/static/v1?label=Status&message=Finished&color=#008000&style=for-the-badge&logo=ghost"/>
+  <img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=bluestyle=for-the-badge&logo=netlify"/><img src="https://img.shields.io/github/license/gabrielajc/Bootstrap?color=blue"/> </p>
 
 <h6> Status: Concluido :heavy_check_mark: </h6>
 
